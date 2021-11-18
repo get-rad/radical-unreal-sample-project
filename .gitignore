@@ -15,7 +15,7 @@ RadicalLLSample/.idea/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+# *.dll
 
 # Fortran module files
 *.mod
@@ -24,7 +24,7 @@ RadicalLLSample/.idea/
 *.lai
 *.la
 *.a
-*.lib
+# *.lib
 
 # Executables
 # *.exe
@@ -46,9 +46,12 @@ RadicalLLSample/.idea/
 RadicalLLSample/SourceArt/**/*.png
 RadicalLLSample/SourceArt/**/*.tga
 
+# Include radical plugin
+!RadicalLLSample/Plugins/*
+
 # Binary Files
 RadicalLLSample/Binaries/*
-RadicalLLSample/Plugins/*/Binaries/*
+# RadicalLLSample/Plugins/*/Binaries/*
 
 # Builds
 RadicalLLSample/Build/*
@@ -69,7 +72,10 @@ RadicalLLSample/Saved/*
 
 # Compiled source files for the engine to use
 RadicalLLSample/Intermediate/*
-RadicalLLSample/Plugins/*/Intermediate/*
+# RadicalLLSample/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 RadicalLLSample/DerivedDataCache/*
+
+# Include radical plugin
+!RadicalLLSample/Plugins/radical-unreal-livelink-plugin/

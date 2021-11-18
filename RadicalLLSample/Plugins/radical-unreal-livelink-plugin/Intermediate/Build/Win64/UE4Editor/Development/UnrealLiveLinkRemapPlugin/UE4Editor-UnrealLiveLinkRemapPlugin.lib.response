@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealLiveLinkRemapPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicalLLSample\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicalLLSample\Plugins\radical-unreal-livelink-plugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealLiveLinkRemapPlugin\Module.UnrealLiveLinkRemapPlugin.cpp.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicalLLSample\Plugins\radical-unreal-livelink-plugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealLiveLinkRemapPlugin\Module.UnrealLiveLinkRemapPlugin.gen.cpp.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicalLLSample\Plugins\radical-unreal-livelink-plugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealLiveLinkRemapPlugin\Default.rc2.res"
+/OUT:"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicalLLSample\Plugins\radical-unreal-livelink-plugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealLiveLinkRemapPlugin\UE4Editor-UnrealLiveLinkRemapPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealLiveLinkRemapPlugin
