@@ -1,0 +1,62 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/wd4244
+/wd4838
+/I .
+/I G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Source\RadicalLiveLinkWSS\Private
+/I G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Inc\RadicalLiveLinkWSS
+/I G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Source
+/I G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Source\RadicalLiveLinkWSS\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\LiveLinkInterface
+/I Runtime\LiveLinkInterface\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
+/I G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Source\ThirdParty
+/I Runtime\Projects\Public
+/I Runtime\Json\Public
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Intermediate\Build\Win64\RadicaWSSSampleEditor\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Intermediate\Build\Win64\RadicaWSSSampleEditor\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Intermediate\Build\Win64\RadicaWSSSampleEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Module.RadicalLiveLinkWSS.gen.cpp"
+/FI"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Definitions.RadicalLiveLinkWSS.h"
+/Fo"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Module.RadicalLiveLinkWSS.gen.cpp.obj"
+/TP
+/GR-
+/W4

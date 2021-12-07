@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RadicalLiveLinkWSS.cpp.obj": [
+			"RadicalLiveLinkSource.cpp.obj",
+			"RadicalLiveLinkSourceFactory.cpp.obj",
+			"RadicalLiveLinkWSS.cpp.obj",
+			"SRadicalLiveLinkSourceFactory.cpp.obj"
+		],
+		"Module.RadicalLiveLinkWSS.gen.cpp.obj": [
+			"RadicalLiveLinkSourceFactory.gen.cpp.obj",
+			"RadicalLiveLinkWSS.init.gen.cpp.obj"
+		]
+	}
+}

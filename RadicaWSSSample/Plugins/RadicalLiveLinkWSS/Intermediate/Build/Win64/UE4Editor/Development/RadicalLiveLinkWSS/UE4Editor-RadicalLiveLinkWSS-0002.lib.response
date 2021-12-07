@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RadicalLiveLinkWSS-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Intermediate\Build\Win64\RadicaWSSSampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Module.RadicalLiveLinkWSS.cpp.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Module.RadicalLiveLinkWSS.gen.cpp.obj"
+"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\Default.rc2.res"
+/OUT:"G:\Work\2021\RADiCAL\radical-unreal-sample-project\RadicaWSSSample\Plugins\RadicalLiveLinkWSS\Intermediate\Build\Win64\UE4Editor\Development\RadicalLiveLinkWSS\UE4Editor-RadicalLiveLinkWSS-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_RadicalLiveLinkWSS

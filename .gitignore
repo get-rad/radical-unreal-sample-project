@@ -82,4 +82,21 @@ RadicalLLSample/DerivedDataCache/*
 
 RadicalLLSample 4.27
 
-RadicaWSSSample
+# RadicaWSSSample
+RadicaWSSSample/.vs/
+RadicaWSSSample/.idea/
+RadicaWSSSample/Binaries/*
+
+!RadicaWSSSample/Build/*/
+RadicaWSSSample/Build/*/**
+!RadicaWSSSample/Build/*/PakBlacklist*.txt
+
+!RadicaWSSSample/Build/**/*.ico
+
+RadicaWSSSample/Content/*_BuiltData.uasset
+
+RadicaWSSSample/Saved/*
+
+RadicaWSSSample/Intermediate/*
+
+RadicaWSSSample/DerivedDataCache/*
