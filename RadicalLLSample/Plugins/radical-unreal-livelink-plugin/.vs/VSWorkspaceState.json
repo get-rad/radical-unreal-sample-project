@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Content",
+    "\\Resources",
+    "\\Source",
+    "\\Source\\UnrealLiveLinkRemapPlugin",
+    "\\Source\\UnrealLiveLinkRemapPlugin\\Public"
   ],
   "PreviewInSolutionExplorer": false
 }
