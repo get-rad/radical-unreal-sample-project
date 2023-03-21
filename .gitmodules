@@ -1,3 +1,3 @@
 [submodule "RadicalLLSample/Plugins/radical-unreal-livelink-plugin"]
 	path = RadicalLLSample/Plugins/radical-unreal-livelink-plugin
-	url = git@github.com:aerydna/radical-unreal-livelink-plugin.git
+	url = https://github.com/get-rad/radical-unreal-livelink-plugin.git
